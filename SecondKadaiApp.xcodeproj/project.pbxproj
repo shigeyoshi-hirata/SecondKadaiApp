@@ -12,6 +12,7 @@
 		D34E4997224CBDC200B9BE3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D34E4995224CBDC200B9BE3D /* Main.storyboard */; };
 		D34E4999224CBDC400B9BE3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D34E4998224CBDC400B9BE3D /* Assets.xcassets */; };
 		D34E499C224CBDC400B9BE3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D34E499A224CBDC400B9BE3D /* LaunchScreen.storyboard */; };
+		D34E49A4224CC01000B9BE3D /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34E49A3224CC01000B9BE3D /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D34E4998224CBDC400B9BE3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D34E499B224CBDC400B9BE3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D34E499D224CBDC400B9BE3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D34E49A3224CC01000B9BE3D /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ResultViewController.swift; path = ../../ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D34E4998224CBDC400B9BE3D /* Assets.xcassets */,
 				D34E499A224CBDC400B9BE3D /* LaunchScreen.storyboard */,
 				D34E499D224CBDC400B9BE3D /* Info.plist */,
+				D34E49A3224CC01000B9BE3D /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				D34E4994224CBDC200B9BE3D /* ViewController.swift in Sources */,
 				D34E4992224CBDC200B9BE3D /* AppDelegate.swift in Sources */,
+				D34E49A4224CC01000B9BE3D /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
