@@ -58,11 +58,11 @@
 			children = (
 				D34E4991224CBDC200B9BE3D /* AppDelegate.swift */,
 				D34E4993224CBDC200B9BE3D /* ViewController.swift */,
+				D34E49A3224CC01000B9BE3D /* ResultViewController.swift */,
 				D34E4995224CBDC200B9BE3D /* Main.storyboard */,
 				D34E4998224CBDC400B9BE3D /* Assets.xcassets */,
 				D34E499A224CBDC400B9BE3D /* LaunchScreen.storyboard */,
 				D34E499D224CBDC400B9BE3D /* Info.plist */,
-				D34E49A3224CC01000B9BE3D /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
